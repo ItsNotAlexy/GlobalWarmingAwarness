@@ -1,0 +1,21 @@
+.jumbotron {
+    padding-top: 5em;
+    padding-bottom: 5em;
+    background-color: whitesmoke;
+}
+
+.img-left {
+    width: 20em;
+    position: relative;
+    bottom: 40em;
+    right: 2em;
+}
+
+.content-right {
+    position: relative;
+    text-align: right;
+    left: 20em;
+    padding-top: 10em;
+    width: 50em;
+    height: 50em;
+}
